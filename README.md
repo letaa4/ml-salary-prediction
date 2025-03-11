@@ -1,1 +1,1 @@
-# ml-salary-prediction
+# Student-Scores-Prediction-Machine-Learning
